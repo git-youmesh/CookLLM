@@ -6,3 +6,7 @@ datasets
 transformers
 tensorboardX 
 scipy
+torchtext
+spacy
+download
+fr
